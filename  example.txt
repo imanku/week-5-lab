@@ -1,0 +1,1 @@
+ your triangle has three sides width 4 , height 7, breadth are 8.06226
